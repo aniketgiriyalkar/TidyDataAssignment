@@ -1,5 +1,5 @@
 ### INITIAL INFORMATION ABOUT EXPERIMENTS
-(quoted text comes from original readme file which can be found here
+(quoted text comes from original readme file which can be found here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 The dataset contains data from the experiments which "have been carried out with a group of 30 volunteers within an age bracket of 19-48 years.
@@ -24,7 +24,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ### DETAILED INFORMATION ABOUT DATA
 
 The dataset contains 180 observations and 81 variables.
-Each observation is a combination of subject (30 volunteers) and activity (6 types) during which data was collected
+Each observation is a combination of subject (30 volunteers) and activity (6 types) during which data was collected.
 
 
 ### VARIABLES EXPLANATION
@@ -32,11 +32,11 @@ Each observation is a combination of subject (30 volunteers) and activity (6 typ
 Activity - 6 values coded into WALKING (1), WALKING_UPSTAIRS (2), WALKING_DOWNSTAIRS (3), SITTING (4), STANDING (5), LAYING(6)
 Subject - 30 values representing observed volunteers
 
-79 measure variables:
-(all information below comes from original features_info file which can be found here
+79 measure variables which are mean values from original normalized and bounded within [-1,1] features.
+(all information about measured features below comes from original features_info file which can be found here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
+The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals - tAcc-XYZ and tGyro-XYZ.
 These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz.
 Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise.
 Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ)
@@ -75,7 +75,7 @@ The set of variables that were estimated from these signals are:
 mean - Mean value
 std - Standard deviation
 
-Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
+Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle variable:
 gravityMean
 tBodyAccMean
 tBodyAccJerkMean
