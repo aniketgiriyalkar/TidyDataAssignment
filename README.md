@@ -1,4 +1,4 @@
-## You will find two files in this repository:
+## You will find three files in this repository:
 
 ### Script
 Please find brief summary below:
@@ -14,3 +14,5 @@ All operations are described in detail in the "run_analysis.R" file.
 ### Code book
 All detailed information about variables in the final data set
 can be found in the "CodeBook.md" file.
+
+### Fianl data
