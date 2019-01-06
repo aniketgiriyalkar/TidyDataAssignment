@@ -17,10 +17,12 @@ The gravitational force is assumed to have only low frequency components, theref
 with 0.3 Hz cutoff frequency was used.
 
 
+
 ### DETAILED INFORMATION ABOUT DATA
 
 The dataset contains 180 observations and 81 variables.
 Each observation is a combination of subject (30 volunteers) and activity (6 types) during which data was collected.
+
 
 
 ### VARIABLES EXPLANATION
@@ -30,6 +32,7 @@ Activity - 6 values coded into WALKING (1), WALKING_UPSTAIRS (2), WALKING_DOWNST
 Subject - 30 values representing observed volunteers
 
 79 measure variables which are mean values from original normalized and bounded within [-1,1] features.
+
 (all information about measured features below comes from original features_info file which can be found here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
