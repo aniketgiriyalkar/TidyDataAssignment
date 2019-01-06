@@ -159,4 +159,4 @@ gravityMean
 tBodyAccMean
 tBodyAccJerkMean
 tBodyGyroMean
-tBodyGyroJerkMean
+tBodyGyroJerkMean 
