@@ -15,4 +15,5 @@ All operations are described in detail in the "run_analysis.R" file.
 All detailed information about variables in the final data set
 can be found in the "CodeBook.md" file.
 
-### Fianl data
+### Final data file
+"AllDataTidy.txt"
