@@ -15,10 +15,6 @@ The sensor acceleration signal, which has gravitational and body motion componen
 was separated using a Butterworth low-pass filter into body acceleration and gravity.
 The gravitational force is assumed to have only low frequency components, therefore a filter
 with 0.3 Hz cutoff frequency was used.
-From each window, a vector of features was obtained by calculating variables from the time and frequency domain."
-
-(Quoted text comes from original readme file which can be find here
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 
 ### DETAILED INFORMATION ABOUT DATA
