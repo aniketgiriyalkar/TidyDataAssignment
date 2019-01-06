@@ -26,6 +26,7 @@ Each observation is a combination of subject (30 volunteers) and activity (6 typ
 ### VARIABLES EXPLANATION
 
 Activity - 6 values coded into WALKING (1), WALKING_UPSTAIRS (2), WALKING_DOWNSTAIRS (3), SITTING (4), STANDING (5), LAYING(6)
+
 Subject - 30 values representing observed volunteers
 
 79 measure variables which are mean values from original normalized and bounded within [-1,1] features.
