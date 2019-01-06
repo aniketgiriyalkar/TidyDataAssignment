@@ -31,6 +31,7 @@ Each observation is a combination of subject (30 volunteers) and activity (6 typ
 2.  Subject - 30 values representing observed volunteers
 
 79 measure variables which are mean values from original normalized and bounded within [-1,1] features:
+
 3.	tBodyAcc.mean.X
 4.	tBodyAcc.mean.Y
 5.	tBodyAcc.mean.Z
